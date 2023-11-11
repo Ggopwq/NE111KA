@@ -20,6 +20,20 @@ local Section = Tab:AddSection({
 	Name = "فكرة السكربت تجميعه سكربتات بلوكس"
 })
 
+local Section = Tab:AddSection({
+	Name = "حقوق @Y1UU0"
+})
+
+local Section = Tab:AddSection({
+	Name = "للتواصل @Y1UU0 عله التلي"
+})
+
+local Section = Tab:AddSection({
+	Name = "قناه التليقرام | https://t.me/el_Abode2"
+})
+
+
+
 local Tab = Window:MakeTab({
 	Name = "القائمه الاولى",
 	Icon = "rbxassetid://4483345998",
