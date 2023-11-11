@@ -1,3 +1,35 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local Window = OrionLib:MakeWindow({Name = "بلوكس فروت", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "القائمه الرئيسيه",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "صاحب السكربت روكس"
+})
+
+local Section = Tab:AddSection({
+	Name = "مبرمج السكربت صالح"
+})
+
+local Section = Tab:AddSection({
+	Name = "فكرة السكربت تجميعه سكربتات بلوكس"
+})
+
+local Tab = Window:MakeTab({
+	Name = "القائمه الاولى",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+	Name = "سكربت MTriet",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
+  	end    
+})
+
