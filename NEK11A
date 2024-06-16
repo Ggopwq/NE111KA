@@ -9,7 +9,7 @@ local Tab = Window:MakeTab({
 })
 
 local Section = Tab:AddSection({
-	Name = "صاحب السكربت روكس"
+	Name = " KING Of Dark"
 })
 
 local Section = Tab:AddSection({
@@ -21,15 +21,15 @@ local Section = Tab:AddSection({
 })
 
 local Section = Tab:AddSection({
-	Name = "حقوق @Y1UU0"
+	Name = "حقوق ،صابح"
 })
 
 local Section = Tab:AddSection({
-	Name = "للتواصل @Y1UU0 عله التلي"
+	Name = "للتواصل صالح"
 })
 
 local Section = Tab:AddSection({
-	Name = "قناه التليقرام | https://t.me/el_Abode2"
+	Name = " KING Of Dark"
 })
 
 
